@@ -25,6 +25,7 @@ public class Main {
             totalPrice = itemPrice + shippingCost;
             System.out.println("Your shipping price is " + shippingCost);
             System.out.println("Your total price is " + totalPrice);
+
         }
     }
 }
